@@ -11,6 +11,18 @@
       "used_by": null,
       "used_at": null,
       "used_ip": null
+    },
+    "TUS-QDKU-TWY5-7U5O": {
+      "nombre": "key",
+      "duracion": 30,
+      "created_at": 1779731017,
+      "expires_at": 1782323017,
+      "created_by": "404cb",
+      "nota": "sebastian",
+      "used": false,
+      "used_by": null,
+      "used_at": null,
+      "used_ip": null
     }
   }
 }
