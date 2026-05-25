@@ -1,3 +1,16 @@
 {
-  "keys": {}
+  "keys": {
+    "TUS-L34W-KKFS-08I8": {
+      "nombre": "kl",
+      "duracion": 4,
+      "created_at": 1779731926,
+      "expires_at": 1780077526,
+      "created_by": "404cb",
+      "nota": "sk",
+      "used": false,
+      "used_by": null,
+      "used_at": null,
+      "used_ip": null
+    }
+  }
 }
