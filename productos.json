@@ -11,17 +11,6 @@
       "used_by": null,
       "used_at": null,
       "used_ip": null
-    },
-    "TUS-KNH5-XF0G-ELBF": {
-      "nombre": "kju",
-      "duracion": 40,
-      "created_at": 1779734557,
-      "expires_at": 1783190557,
-      "created_by": "404cb",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null
     }
   }
 }
