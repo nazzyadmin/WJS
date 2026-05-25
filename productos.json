@@ -1,3 +1,16 @@
 {
-  "keys": {}
+  "keys": {
+    "TUS-56HW-4JD2-D1T7": {
+      "nombre": "key23",
+      "duracion": 3,
+      "created_at": 1779730769,
+      "expires_at": 1779989969,
+      "created_by": "404cb",
+      "nota": "sen",
+      "used": false,
+      "used_by": null,
+      "used_at": null,
+      "used_ip": null
+    }
+  }
 }
