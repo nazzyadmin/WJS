@@ -1,15 +1,3 @@
 {
-  "keys": {
-    "TUS-509G-0I67-ZWPG": {
-      "nombre": "NS",
-      "duracion": 1,
-      "created_at": 1779735080,
-      "expires_at": 1779821480,
-      "created_by": "404cb",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null
-    }
-  }
+  "keys": {}
 }
