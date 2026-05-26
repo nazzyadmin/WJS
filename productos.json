@@ -11,6 +11,18 @@
       "locked_to_name": "fyrigruig",
       "used_at": 1779755837,
       "used_ip": "152.0.221.100"
+    },
+    "TUS-7AER-O4XP-3I5O": {
+      "nombre": "SEBAS",
+      "duracion": 1,
+      "created_at": 1779756024,
+      "expires_at": 1779842424,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null
     }
   }
 }
