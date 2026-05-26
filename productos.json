@@ -1,3 +1,16 @@
 {
-  "keys": {}
+  "keys": {
+    "TUS-QK7P-EY36-0WEZ": {
+      "nombre": "DRACO",
+      "duracion": 10,
+      "created_at": 1779753990,
+      "expires_at": 1780617990,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null
+    }
+  }
 }
