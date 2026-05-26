@@ -1,3 +1,16 @@
 {
-  "keys": {}
+  "keys": {
+    "TUS-STJQ-98AD-1MZF": {
+      "nombre": "KALI",
+      "duracion": 99,
+      "created_at": 1779755556,
+      "expires_at": 1788309156,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null
+    }
+  }
 }
