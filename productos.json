@@ -83,6 +83,18 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null
+    },
+    "TUS-7S80-CVRE-ISRV": {
+      "nombre": "KANYE",
+      "duracion": 5,
+      "created_at": 1779933024,
+      "expires_at": 1780365024,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null
     }
   }
 }
