@@ -12,6 +12,18 @@
       "used_at": 1780069235,
       "used_ip": "152.0.221.100"
     },
+  "nazzy": {
+      "nombre": "Tali",
+      "duracion": 99999,
+      "created_at": 1780069171,
+      "expires_at": 1780933171,
+      "created_by": "404cb",
+      "used": true,
+      "locked_to_user": 3508358431,
+      "locked_to_name": "fyrigruig",
+      "used_at": 1780069235,
+      "used_ip": "152.0.221.100"
+    },
     "TUS-9V9R-PTVB-81IQ": {
       "nombre": "22",
       "duracion": 10,
