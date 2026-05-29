@@ -1,1 +1,16 @@
-{}
+{
+  "keys": {
+    "TUS-83TR-N82R-KWI5": {
+      "nombre": "Tali",
+      "duracion": 10,
+      "created_at": 1780069171,
+      "expires_at": 1780933171,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null
+    }
+  }
+}
