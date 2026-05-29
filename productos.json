@@ -36,7 +36,7 @@
       "used_at": 1780074050,
       "used_ip": "93.71.175.155"
     },
-    "TEST-9DAZ-5NEN-PVI9": {
+    "TEST-9DAZ-5NEN-PVI9 (EXPIRADA)": {
       "nombre": "[PRUEBA] TYS",
       "duracion": 1,
       "duracion_tipo": "minutos",
@@ -48,7 +48,8 @@
       "locked_to_name": "fyrigruig",
       "used_at": 1780076934,
       "used_ip": "152.0.221.100",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780077362
     }
   }
 }
