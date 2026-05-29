@@ -35,6 +35,20 @@
       "locked_to_name": "GOST_XDX",
       "used_at": 1780074050,
       "used_ip": "93.71.175.155"
+    },
+    "TEST-O9RZ-LCEC-SUQJ": {
+      "nombre": "[PRUEBA] TEST",
+      "duracion": 1,
+      "duracion_tipo": "minutos",
+      "created_at": 1780076003,
+      "expires_at": 1780076063,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
