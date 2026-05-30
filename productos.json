@@ -101,6 +101,19 @@
       "used_at": 1780105455,
       "used_ip": "152.0.221.100",
       "expired_marked": false
+    },
+    "TUS-W908-B1KU-1ABJ": {
+      "nombre": "3",
+      "duracion": 222,
+      "created_at": 1780112055,
+      "expires_at": 1799292855,
+      "created_by": "extortian.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
