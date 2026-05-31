@@ -79,7 +79,7 @@
       "expired_marked": true,
       "expired_at": 1780188962
     },
-    "TUS-EGNP-O284-7Z8T": {
+    "TUS-EGNP-O284-7Z8T (EXPIRADA)": {
       "nombre": "2",
       "duracion": 1,
       "created_at": 1780104646,
@@ -90,7 +90,8 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780191062
     },
     "TUS-LKQ2-HQNK-KE9Q": {
       "nombre": "FF",
