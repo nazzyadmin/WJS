@@ -129,6 +129,19 @@
       "used_at": 1780169510,
       "used_ip": "190.110.35.194",
       "expired_marked": false
+    },
+    "TUS-L1Y2-O1Y5-6I05": {
+      "nombre": "2",
+      "duracion": 100,
+      "created_at": 1780187364,
+      "expires_at": 1788827364,
+      "created_by": "extortian.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
