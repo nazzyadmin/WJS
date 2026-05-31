@@ -65,7 +65,7 @@
       "expired_marked": true,
       "expired_at": 1780077362
     },
-    "TUS-27T9-4R7G-IOYH": {
+    "TUS-27T9-4R7G-IOYH (EXPIRADA)": {
       "nombre": "WW",
       "duracion": 1,
       "created_at": 1780102405,
@@ -76,7 +76,8 @@
       "locked_to_name": "diseasec4",
       "used_at": 1780102414,
       "used_ip": "190.5.32.188",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780188962
     },
     "TUS-EGNP-O284-7Z8T": {
       "nombre": "2",
