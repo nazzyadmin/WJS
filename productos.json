@@ -129,6 +129,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-OT09-4STC-95TJ": {
+      "nombre": "Prueba7",
+      "duracion": 1,
+      "created_at": 1780789240,
+      "expires_at": 1780875640,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
