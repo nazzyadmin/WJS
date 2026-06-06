@@ -170,6 +170,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-8H84-R7OU-2NQ3": {
+      "nombre": "TaliGoya",
+      "duracion": 35,
+      "created_at": 1780718988,
+      "expires_at": 1783742988,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
