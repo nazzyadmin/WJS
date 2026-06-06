@@ -25,6 +25,19 @@
       "used_at": 1780719807,
       "used_ip": "152.0.221.100",
       "expired_marked": false
+    },
+    "TUS-IZE0-BNFI-V51W": {
+      "nombre": "Deivon",
+      "duracion": 365,
+      "created_at": 1780720491,
+      "expires_at": 1812256491,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
