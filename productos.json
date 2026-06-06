@@ -38,6 +38,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-UXA1-WSD3-E63U": {
+      "nombre": "3",
+      "duracion": 88,
+      "created_at": 1780765458,
+      "expires_at": 1788368658,
+      "created_by": "dicease.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
