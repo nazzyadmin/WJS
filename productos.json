@@ -81,7 +81,7 @@
       "expired_marked": true,
       "expired_at": 1780875569
     },
-    "TUS-2GFS-YUQR-KPKK": {
+    "TUS-2GFS-YUQR-KPKK (EXPIRADA)": {
       "nombre": "Prueba4",
       "duracion": 1,
       "created_at": 1780789173,
@@ -92,9 +92,10 @@
       "locked_to_name": "Penyaiir",
       "used_at": 1780806615,
       "used_ip": "200.118.80.28",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875869
     },
-    "TUS-6PTB-5F38-KXKN": {
+    "TUS-6PTB-5F38-KXKN (EXPIRADA)": {
       "nombre": "Prueba5",
       "duracion": 1,
       "created_at": 1780789180,
@@ -105,9 +106,10 @@
       "locked_to_name": "Migatita1868",
       "used_at": 1780805838,
       "used_ip": "201.238.0.133",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875869
     },
-    "TUS-CPNI-5COF-M3L6": {
+    "TUS-CPNI-5COF-M3L6 (EXPIRADA)": {
       "nombre": "Prueba6",
       "duracion": 1,
       "created_at": 1780789232,
@@ -118,9 +120,10 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875869
     },
-    "TUS-OT09-4STC-95TJ": {
+    "TUS-OT09-4STC-95TJ (EXPIRADA)": {
       "nombre": "Prueba7",
       "duracion": 1,
       "created_at": 1780789240,
@@ -131,9 +134,10 @@
       "locked_to_name": "carlosjosuerg6",
       "used_at": 1780822660,
       "used_ip": "82.86.104.85",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875869
     },
-    "TUS-PUDL-SJS7-2RAK": {
+    "TUS-PUDL-SJS7-2RAK (EXPIRADA)": {
       "nombre": "Prueba9",
       "duracion": 1,
       "created_at": 1780789255,
@@ -144,9 +148,10 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875869
     },
-    "TUS-UJ6B-8I0M-4ZPV": {
+    "TUS-UJ6B-8I0M-4ZPV (EXPIRADA)": {
       "nombre": "Prueba10",
       "duracion": 1,
       "created_at": 1780789262,
@@ -157,7 +162,8 @@
       "locked_to_name": "XBOXuser012345678910",
       "used_at": 1780835530,
       "used_ip": "38.150.92.201",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875869
     },
     "TUS-8ZWV-K0VI-2XTY": {
       "nombre": "Prueba",
