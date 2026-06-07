@@ -298,6 +298,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-VKKY-2FW0-SMSB": {
+      "nombre": "PRUEBA19",
+      "duracion": 1,
+      "created_at": 1780795710,
+      "expires_at": 1780882110,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
