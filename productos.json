@@ -584,6 +584,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-3Z5N-HWD5-KONV": {
+      "nombre": "prueba2",
+      "duracion": 2,
+      "created_at": 1780866859,
+      "expires_at": 1781039659,
+      "created_by": "driebloood",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
