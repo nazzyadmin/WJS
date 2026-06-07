@@ -13,19 +13,6 @@
       "used_ip": "152.0.221.100",
       "expired_marked": false
     },
-    "TUS-ZD2A-E24K-DQLF": {
-      "nombre": "JULIAN",
-      "duracion": 1,
-      "created_at": 1780719712,
-      "expires_at": 1780806112,
-      "created_by": "404cb",
-      "used": true,
-      "locked_to_user": 3508358431,
-      "locked_to_name": "fyrigruig",
-      "used_at": 1780719807,
-      "used_ip": "152.0.221.100",
-      "expired_marked": false
-    },
     "TUS-IZE0-BNFI-V51W": {
       "nombre": "Deivon",
       "duracion": 365,
