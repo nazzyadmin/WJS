@@ -363,6 +363,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-1BDQ-QGC0-EJVQ": {
+      "nombre": "prueba",
+      "duracion": 1,
+      "created_at": 1780801619,
+      "expires_at": 1780888019,
+      "created_by": "driebloood",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
