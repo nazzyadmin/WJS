@@ -500,11 +500,11 @@
       "created_at": 1780858395,
       "expires_at": 1780944795,
       "created_by": "driebloood",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
+      "used": true,
+      "locked_to_user": 10348758557,
+      "locked_to_name": "Alex1998696",
+      "used_at": 1780860621,
+      "used_ip": "190.97.249.37",
       "expired_marked": false
     },
     "TUS-YTMF-SV5Z-9CE9": {
