@@ -181,6 +181,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-8ZWV-K0VI-2XTY": {
+      "nombre": "Prueba",
+      "duracion": 1,
+      "created_at": 1780794334,
+      "expires_at": 1780880734,
+      "created_by": "driebloood",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
