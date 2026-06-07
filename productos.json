@@ -311,6 +311,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-E85Z-XZK4-XLT8": {
+      "nombre": "PRUEBA20",
+      "duracion": 1,
+      "created_at": 1780795717,
+      "expires_at": 1780882117,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
