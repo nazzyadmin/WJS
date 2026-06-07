@@ -409,11 +409,11 @@
       "created_at": 1780839318,
       "expires_at": 1780925718,
       "created_by": "driebloood",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
+      "used": true,
+      "locked_to_user": 10083615115,
+      "locked_to_name": "mvThiago_7Z",
+      "used_at": 1780841055,
+      "used_ip": "190.153.102.247",
       "expired_marked": false
     },
     "TUS-EWRJ-1XNR-JS8I": {
