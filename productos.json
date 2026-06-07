@@ -123,11 +123,11 @@
       "created_at": 1780789240,
       "expires_at": 1780875640,
       "created_by": "404cb",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
+      "used": true,
+      "locked_to_user": 4359379755,
+      "locked_to_name": "carlosjosuerg6",
+      "used_at": 1780822660,
+      "used_ip": "82.86.104.85",
       "expired_marked": false
     },
     "TUS-PUDL-SJS7-2RAK": {
