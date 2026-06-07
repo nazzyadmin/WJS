@@ -285,6 +285,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-2NUA-T9KY-C9W7": {
+      "nombre": "PRUEBA18",
+      "duracion": 1,
+      "created_at": 1780795705,
+      "expires_at": 1780882105,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
