@@ -240,11 +240,11 @@
       "created_at": 1780795692,
       "expires_at": 1780882092,
       "created_by": "404cb",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
+      "used": true,
+      "locked_to_user": 8580477928,
+      "locked_to_name": "xxROYNERxx0",
+      "used_at": 1780821856,
+      "used_ip": "38.166.129.234",
       "expired_marked": false
     },
     "TUS-836O-ASEP-NK39": {
