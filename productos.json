@@ -532,6 +532,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-KMES-CY41-KLTK": {
+      "nombre": "prueba212123",
+      "duracion": 1,
+      "created_at": 1780858494,
+      "expires_at": 1780944894,
+      "created_by": "driebloood",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
