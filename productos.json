@@ -305,11 +305,11 @@
       "created_at": 1780795710,
       "expires_at": 1780882110,
       "created_by": "404cb",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
+      "used": true,
+      "locked_to_user": 5659582353,
+      "locked_to_name": "abelparamta1523",
+      "used_at": 1780808122,
+      "used_ip": "138.97.250.75",
       "expired_marked": false
     },
     "TUS-E85Z-XZK4-XLT8": {
