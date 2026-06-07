@@ -130,19 +130,6 @@
       "used_ip": null,
       "expired_marked": false
     },
-    "TUS-6VRS-7EVU-H7DD": {
-      "nombre": "Prueba8",
-      "duracion": 1,
-      "created_at": 1780789247,
-      "expires_at": 1780875647,
-      "created_by": "404cb",
-      "used": true,
-      "locked_to_user": 8311172192,
-      "locked_to_name": "Miguelsoy11",
-      "used_at": 1780805463,
-      "used_ip": "72.43.145.27",
-      "expired_marked": false
-    },
     "TUS-PUDL-SJS7-2RAK": {
       "nombre": "Prueba9",
       "duracion": 1,
