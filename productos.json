@@ -39,7 +39,7 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-YGX0-7KA7-Y1B2": {
+    "TUS-YGX0-7KA7-Y1B2 (EXPIRADA)": {
       "nombre": "Prueba 1",
       "duracion": 1,
       "created_at": 1780789143,
@@ -50,9 +50,10 @@
       "locked_to_name": "Alejandro_Sixx3",
       "used_at": 1780822135,
       "used_ip": "190.142.102.67",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875569
     },
-    "TUS-NHMZ-OOEV-8O7F": {
+    "TUS-NHMZ-OOEV-8O7F (EXPIRADA)": {
       "nombre": "Prueba2",
       "duracion": 1,
       "created_at": 1780789152,
@@ -63,9 +64,10 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875569
     },
-    "TUS-95PD-33IO-EUNB": {
+    "TUS-95PD-33IO-EUNB (EXPIRADA)": {
       "nombre": "Prueba3",
       "duracion": 1,
       "created_at": 1780789164,
@@ -76,7 +78,8 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780875569
     },
     "TUS-2GFS-YUQR-KPKK": {
       "nombre": "Prueba4",
