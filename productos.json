@@ -150,7 +150,7 @@
       "expired_marked": true,
       "expired_at": 1780944869
     },
-    "TUS-W4Y6-1OBH-KZXS": {
+    "TUS-W4Y6-1OBH-KZXS (EXPIRADA)": {
       "nombre": "prueba212",
       "duracion": 1,
       "created_at": 1780858487,
@@ -161,9 +161,10 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780945171
     },
-    "TUS-KMES-CY41-KLTK": {
+    "TUS-KMES-CY41-KLTK (EXPIRADA)": {
       "nombre": "prueba212123",
       "duracion": 1,
       "created_at": 1780858494,
@@ -174,7 +175,8 @@
       "locked_to_name": "Sxnti11111",
       "used_at": 1780864704,
       "used_ip": "38.183.114.43",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780945171
     },
     "TUS-KYQA-PJ79-6QBL": {
       "nombre": "prueba333333333",
