@@ -155,6 +155,19 @@
       "used_at": 1780941853,
       "used_ip": "200.118.80.28",
       "expired_marked": false
+    },
+    "TUS-CN2Q-9J4W-SUI3": {
+      "nombre": "2",
+      "duracion": 3,
+      "created_at": 1780956195,
+      "expires_at": 1781215395,
+      "created_by": "dicease.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
