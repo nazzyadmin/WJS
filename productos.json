@@ -52,7 +52,7 @@
       "used_ip": "72.43.145.27",
       "expired_marked": false
     },
-    "TUS-EZ8M-6500-P0Z3": {
+    "TUS-EZ8M-6500-P0Z3 (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780858214,
@@ -63,9 +63,10 @@
       "locked_to_name": "Uchexxxxxxx",
       "used_at": 1780877194,
       "used_ip": "38.246.82.13",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780944869
     },
-    "TUS-TA2B-IMXY-4HEM": {
+    "TUS-TA2B-IMXY-4HEM (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780858270,
@@ -76,9 +77,10 @@
       "locked_to_name": "jerez_Dilan1234",
       "used_at": 1780858713,
       "used_ip": "38.248.157.108",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780944869
     },
-    "TUS-9PTM-ET7D-5206": {
+    "TUS-9PTM-ET7D-5206 (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780858299,
@@ -89,9 +91,10 @@
       "locked_to_name": "Santiago003330",
       "used_at": 1780861153,
       "used_ip": "190.120.253.175",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780944869
     },
-    "TUS-M8GF-6X83-PXV7": {
+    "TUS-M8GF-6X83-PXV7 (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780858351,
@@ -102,9 +105,10 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780944869
     },
-    "TUS-4M77-5Z3R-6LDS": {
+    "TUS-4M77-5Z3R-6LDS (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780858387,
@@ -115,9 +119,10 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780944869
     },
-    "TUS-DVLV-WT7L-JGN4": {
+    "TUS-DVLV-WT7L-JGN4 (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780858395,
@@ -128,9 +133,10 @@
       "locked_to_name": "Alex1998696",
       "used_at": 1780860621,
       "used_ip": "190.97.249.37",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780944869
     },
-    "TUS-YTMF-SV5Z-9CE9": {
+    "TUS-YTMF-SV5Z-9CE9 (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780858401,
@@ -141,7 +147,8 @@
       "locked_to_name": "adan1_282",
       "used_at": 1780859483,
       "used_ip": "200.36.152.30",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780944869
     },
     "TUS-W4Y6-1OBH-KZXS": {
       "nombre": "prueba212",
