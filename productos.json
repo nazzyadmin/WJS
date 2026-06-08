@@ -52,34 +52,6 @@
       "used_ip": "72.43.145.27",
       "expired_marked": false
     },
-    "TUS-FK0Z-K8BO-IOSV (EXPIRADA)": {
-      "nombre": "prueba3232",
-      "duracion": 1,
-      "created_at": 1780865981,
-      "expires_at": 1780952381,
-      "created_by": "driebloood",
-      "used": true,
-      "locked_to_user": 10725640578,
-      "locked_to_name": "xXB4bydaironnX",
-      "used_at": 1780866580,
-      "used_ip": "38.166.132.239",
-      "expired_marked": true,
-      "expired_at": 1780952669
-    },
-    "TUS-02NK-PES5-UVUS (EXPIRADA)": {
-      "nombre": "prueba",
-      "duracion": 1,
-      "created_at": 1780866109,
-      "expires_at": 1780952509,
-      "created_by": "dicease.",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
-      "expired_marked": true,
-      "expired_at": 1780952669
-    },
     "TUS-3Z5N-HWD5-KONV": {
       "nombre": "prueba2",
       "duracion": 2,
@@ -92,20 +64,6 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
-    },
-    "TUS-318B-4AFV-2MMI (EXPIRADA)": {
-      "nombre": "prueba23",
-      "duracion": 1,
-      "created_at": 1780866872,
-      "expires_at": 1780953272,
-      "created_by": "driebloood",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
-      "expired_marked": true,
-      "expired_at": 1780953569
     },
     "TUS-XILG-W3K2-EFQQ": {
       "nombre": "keider  dj del ampa",
