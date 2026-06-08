@@ -109,7 +109,7 @@
       "expired_marked": true,
       "expired_at": 1780888169
     },
-    "TUS-SOVF-HPHV-HN0V": {
+    "TUS-SOVF-HPHV-HN0V (EXPIRADA)": {
       "nombre": "MEXICHANGA",
       "duracion": 1,
       "created_at": 1780804899,
@@ -120,7 +120,8 @@
       "locked_to_name": "fyrigruig",
       "used_at": 1780804907,
       "used_ip": "200.88.225.126",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780891469
     },
     "TUS-HY24-H0MI-Q8TN": {
       "nombre": "Daniel",
