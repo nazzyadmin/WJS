@@ -78,7 +78,7 @@
       "used_ip": null,
       "expired_marked": false
     },
-    "TUS-M8UV-M5QE-KFXZ": {
+    "TUS-M8UV-M5QE-KFXZ (EXPIRADA)": {
       "nombre": "PRUEBA",
       "duracion": 1,
       "created_at": 1780874731,
@@ -89,7 +89,8 @@
       "locked_to_name": "zackhj810",
       "used_at": 1780910806,
       "used_ip": "186.96.69.173",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780961369
     },
     "TUS-7Z82-1R18-UAYH": {
       "nombre": "lilse",
