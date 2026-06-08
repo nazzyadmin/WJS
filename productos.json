@@ -52,7 +52,7 @@
       "used_ip": "72.43.145.27",
       "expired_marked": false
     },
-    "TUS-F00C-RXXZ-2A1J": {
+    "TUS-F00C-RXXZ-2A1J (EXPIRADA)": {
       "nombre": "Prueba",
       "duracion": 1,
       "created_at": 1780813543,
@@ -63,7 +63,8 @@
       "locked_to_name": "Sneider32222",
       "used_at": 1780813780,
       "used_ip": "181.131.161.61",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780900169
     },
     "TUS-1IKQ-0UH7-N9EJ": {
       "nombre": "prueba",
