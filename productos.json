@@ -66,7 +66,7 @@
       "expired_marked": true,
       "expired_at": 1780900169
     },
-    "TUS-1IKQ-0UH7-N9EJ": {
+    "TUS-1IKQ-0UH7-N9EJ (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780839318,
@@ -77,9 +77,10 @@
       "locked_to_name": "mvThiago_7Z",
       "used_at": 1780841055,
       "used_ip": "190.153.102.247",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780925969
     },
-    "TUS-EWRJ-1XNR-JS8I": {
+    "TUS-EWRJ-1XNR-JS8I (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780839370,
@@ -90,7 +91,8 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780925969
     },
     "TUS-EZ8M-6500-P0Z3": {
       "nombre": "prueba",
