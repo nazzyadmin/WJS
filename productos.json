@@ -53,7 +53,7 @@
       "expired_marked": true,
       "expired_at": 1780884269
     },
-    "TUS-ZU9F-0DLK-BZAO": {
+    "TUS-ZU9F-0DLK-BZAO (EXPIRADA)": {
       "nombre": "1222",
       "duracion": 1,
       "created_at": 1780798908,
@@ -64,7 +64,8 @@
       "locked_to_name": "fyrigruig",
       "used_at": 1780798930,
       "used_ip": "200.88.225.126",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780885469
     },
     "TUS-B3IQ-JC2U-1STO": {
       "nombre": "prueba",
