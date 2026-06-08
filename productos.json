@@ -67,7 +67,7 @@
       "expired_marked": true,
       "expired_at": 1780885469
     },
-    "TUS-B3IQ-JC2U-1STO": {
+    "TUS-B3IQ-JC2U-1STO (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780801578,
@@ -78,9 +78,10 @@
       "locked_to_name": "xxijxbs_30",
       "used_at": 1780805133,
       "used_ip": "200.115.143.243",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780888169
     },
-    "TUS-1BDQ-QGC0-EJVQ": {
+    "TUS-1BDQ-QGC0-EJVQ (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780801619,
@@ -91,9 +92,10 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780888169
     },
-    "TUS-4SR8-C4VK-O8T4": {
+    "TUS-4SR8-C4VK-O8T4 (EXPIRADA)": {
       "nombre": "prueba",
       "duracion": 1,
       "created_at": 1780801648,
@@ -104,7 +106,8 @@
       "locked_to_name": null,
       "used_at": null,
       "used_ip": null,
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1780888169
     },
     "TUS-SOVF-HPHV-HN0V": {
       "nombre": "MEXICHANGA",
