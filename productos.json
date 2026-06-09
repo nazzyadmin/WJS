@@ -117,20 +117,6 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-K0PL-8M3J-EBH2 (EXPIRADA)": {
-      "nombre": "Lilsebasti key",
-      "duracion": 1,
-      "created_at": 1780939338,
-      "expires_at": 1781025738,
-      "created_by": "dicease.",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
-      "expired_marked": true,
-      "expired_at": 1781025869
-    },
     "TUS-B7D4-J96A-DWTM": {
       "nombre": "Prueba2 dias",
       "duracion": 2,
