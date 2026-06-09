@@ -52,20 +52,6 @@
       "used_ip": "72.43.145.27",
       "expired_marked": false
     },
-    "TUS-3Z5N-HWD5-KONV (EXPIRADA)": {
-      "nombre": "prueba2",
-      "duracion": 2,
-      "created_at": 1780866859,
-      "expires_at": 1781039659,
-      "created_by": "driebloood",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
-      "expired_marked": true,
-      "expired_at": 1781039670
-    },
     "TUS-XILG-W3K2-EFQQ": {
       "nombre": "keider  dj del ampa",
       "duracion": 5,
