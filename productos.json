@@ -182,6 +182,19 @@
       "used_at": 1781013437,
       "used_ip": "190.120.250.64",
       "expired_marked": false
+    },
+    "TUS-JMDZ-VBT2-U98U": {
+      "nombre": "GAY CODE",
+      "duracion": 1,
+      "created_at": 1781013668,
+      "expires_at": 1781100068,
+      "created_by": "dicease.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
