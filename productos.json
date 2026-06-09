@@ -169,6 +169,19 @@
       "used_at": 1780956204,
       "used_ip": "190.5.32.188",
       "expired_marked": false
+    },
+    "TUS-5TSN-N4OL-AK1A": {
+      "nombre": "2prueba",
+      "duracion": 2,
+      "created_at": 1781013309,
+      "expires_at": 1781186109,
+      "created_by": "dicease.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
