@@ -233,6 +233,19 @@
       "used_at": 1781028142,
       "used_ip": "190.6.47.108",
       "expired_marked": false
+    },
+    "TUS-ILZ2-WWAN-DKU8": {
+      "nombre": "1",
+      "duracion": 365,
+      "created_at": 1781039440,
+      "expires_at": 1812575440,
+      "created_by": "dicease.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
