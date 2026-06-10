@@ -233,6 +233,19 @@
       "used_at": 1781049415,
       "used_ip": "154.194.13.41",
       "expired_marked": false
+    },
+    "TUS-S84B-8X9J-5YEA": {
+      "nombre": "JJJJ",
+      "duracion": 3,
+      "created_at": 1781050235,
+      "expires_at": 1781309435,
+      "created_by": "404cb",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
