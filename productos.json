@@ -143,7 +143,7 @@
       "used_ip": "190.120.250.64",
       "expired_marked": false
     },
-    "TUS-JMDZ-VBT2-U98U": {
+    "TUS-JMDZ-VBT2-U98U (EXPIRADA)": {
       "nombre": "GAY CODE",
       "duracion": 1,
       "created_at": 1781013668,
@@ -154,7 +154,8 @@
       "locked_to_name": "LUISMIa33",
       "used_at": 1781013763,
       "used_ip": "38.74.251.67",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781100269
     },
     "TUS-VEEQ-OJ3I-1RYT": {
       "nombre": "prueba55555",
