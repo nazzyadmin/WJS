@@ -171,7 +171,7 @@
       "expired_marked": true,
       "expired_at": 1781108370
     },
-    "TUS-UJ45-FH72-X6WT": {
+    "TUS-UJ45-FH72-X6WT (EXPIRADA)": {
       "nombre": "1prueba",
       "duracion": 1,
       "created_at": 1781024009,
@@ -182,7 +182,8 @@
       "locked_to_name": "Diegoo65443",
       "used_at": 1781024412,
       "used_ip": "201.249.155.91",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781110469
     },
     "TUS-60KK-EOG0-E3AE": {
       "nombre": "3",
