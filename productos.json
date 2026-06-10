@@ -292,6 +292,19 @@
       "used_at": null,
       "used_ip": null,
       "expired_marked": false
+    },
+    "TUS-7UEM-FYR7-Z47X": {
+      "nombre": "3",
+      "duracion": 100,
+      "created_at": 1781135934,
+      "expires_at": 1789775934,
+      "created_by": "dicease.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
