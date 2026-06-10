@@ -246,6 +246,19 @@
       "used_at": 1781052109,
       "used_ip": "190.6.47.145",
       "expired_marked": false
+    },
+    "TUS-27EP-YJLS-66E1": {
+      "nombre": "KEYS PERMA",
+      "duracion": 356,
+      "created_at": 1781065810,
+      "expires_at": 1811824210,
+      "created_by": "dicease.",
+      "used": false,
+      "locked_to_user": null,
+      "locked_to_name": null,
+      "used_at": null,
+      "used_ip": null,
+      "expired_marked": false
     }
   }
 }
