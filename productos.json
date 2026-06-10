@@ -214,7 +214,7 @@
       "expired_marked": true,
       "expired_at": 1781114069
     },
-    "TUS-8SP7-KPY1-FBC7": {
+    "TUS-8SP7-KPY1-FBC7 (EXPIRADA)": {
       "nombre": "2",
       "duracion": 1,
       "created_at": 1781028020,
@@ -225,7 +225,8 @@
       "locked_to_name": "Sebas_1203063",
       "used_at": 1781028142,
       "used_ip": "190.6.47.108",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781114669
     },
     "TUS-S84B-8X9J-5YEA": {
       "nombre": "JJJJ",
