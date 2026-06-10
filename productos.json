@@ -221,19 +221,6 @@
       "used_ip": "190.6.47.108",
       "expired_marked": false
     },
-    "TUS-ILZ2-WWAN-DKU8": {
-      "nombre": "1",
-      "duracion": 365,
-      "created_at": 1781039440,
-      "expires_at": 1812575440,
-      "created_by": "dicease.",
-      "used": true,
-      "locked_to_user": 10156332552,
-      "locked_to_name": "el_0719373",
-      "used_at": 1781049415,
-      "used_ip": "154.194.13.41",
-      "expired_marked": false
-    },
     "TUS-S84B-8X9J-5YEA": {
       "nombre": "JJJJ",
       "duracion": 3,
