@@ -104,7 +104,7 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-B7D4-J96A-DWTM": {
+    "TUS-B7D4-J96A-DWTM (EXPIRADA)": {
       "nombre": "Prueba2 dias",
       "duracion": 2,
       "created_at": 1780941374,
@@ -115,7 +115,8 @@
       "locked_to_name": "Penyaiir",
       "used_at": 1780941853,
       "used_ip": "200.118.80.28",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781114369
     },
     "TUS-CN2Q-9J4W-SUI3": {
       "nombre": "2",
