@@ -241,7 +241,7 @@
       "used_ip": "200.88.171.241",
       "expired_marked": false
     },
-    "TUS-EKC4-VQDY-4VRC": {
+    "TUS-EKC4-VQDY-4VRC (EXPIRADA)": {
       "nombre": "Erica",
       "duracion": 1,
       "created_at": 1781051865,
@@ -252,7 +252,8 @@
       "locked_to_name": "hola123345395",
       "used_at": 1781052109,
       "used_ip": "190.6.47.145",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781138369
     },
     "TUS-27EP-YJLS-66E1": {
       "nombre": "KEYS PERMA",
