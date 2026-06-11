@@ -117,20 +117,6 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-5TSN-N4OL-AK1A (EXPIRADA)": {
-      "nombre": "2prueba",
-      "duracion": 2,
-      "created_at": 1781013309,
-      "expires_at": 1781186109,
-      "created_by": "dicease.",
-      "used": true,
-      "locked_to_user": 8450462501,
-      "locked_to_name": "veneco454",
-      "used_at": 1781013437,
-      "used_ip": "190.120.250.64",
-      "expired_marked": true,
-      "expired_at": 1781186369
-    },
     "TUS-S84B-8X9J-5YEA": {
       "nombre": "JJJJ",
       "duracion": 3,
