@@ -104,7 +104,7 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-CN2Q-9J4W-SUI3": {
+    "TUS-CN2Q-9J4W-SUI3 (EXPIRADA)": {
       "nombre": "2",
       "duracion": 3,
       "created_at": 1780956195,
@@ -115,7 +115,8 @@
       "locked_to_name": "cheyner103",
       "used_at": 1780956204,
       "used_ip": "190.5.32.188",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781215469
     },
     "TUS-S84B-8X9J-5YEA": {
       "nombre": "JJJJ",
