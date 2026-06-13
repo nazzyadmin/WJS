@@ -105,7 +105,7 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-S84B-8X9J-5YEA": {
+    "TUS-S84B-8X9J-5YEA (EXPIRADA)": {
       "nombre": "JJJJ",
       "duracion": 3,
       "created_at": 1781050235,
@@ -116,7 +116,8 @@
       "locked_to_name": "fyrigruig",
       "used_at": 1781050243,
       "used_ip": "200.88.171.241",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781309669
     },
     "TUS-27EP-YJLS-66E1": {
       "nombre": "KEYS PERMA",
