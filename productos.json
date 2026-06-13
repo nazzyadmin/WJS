@@ -52,20 +52,6 @@
       "used_ip": "72.43.145.27",
       "expired_marked": false
     },
-    "TUS-XILG-W3K2-EFQQ (EXPIRADA)": {
-      "nombre": "keider  dj del ampa",
-      "duracion": 5,
-      "created_at": 1780866999,
-      "expires_at": 1781298999,
-      "created_by": "dicease.",
-      "used": false,
-      "locked_to_user": null,
-      "locked_to_name": null,
-      "used_at": null,
-      "used_ip": null,
-      "expired_marked": true,
-      "expired_at": 1781299169
-    },
     "TUS-7Z82-1R18-UAYH": {
       "nombre": "lilse",
       "duracion": 200,
@@ -79,20 +65,6 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-58VN-YF62-XRBP (EXPIRADA)": {
-      "nombre": "DJ LAMPA",
-      "duracion": 5,
-      "created_at": 1780886957,
-      "expires_at": 1781318957,
-      "created_by": "dicease.",
-      "used": true,
-      "locked_to_user": 9115725286,
-      "locked_to_name": "leiderdj93",
-      "used_at": 1780887082,
-      "used_ip": "92.118.182.50",
-      "expired_marked": true,
-      "expired_at": 1781318969
-    },
     "TUS-LEEO-5CGC-FST9": {
       "nombre": "HELP",
       "duracion": 200,
@@ -105,20 +77,6 @@
       "used_at": 1780887210,
       "used_ip": "190.5.32.188",
       "expired_marked": false
-    },
-    "TUS-S84B-8X9J-5YEA (EXPIRADA)": {
-      "nombre": "JJJJ",
-      "duracion": 3,
-      "created_at": 1781050235,
-      "expires_at": 1781309435,
-      "created_by": "404cb",
-      "used": true,
-      "locked_to_user": 3508358431,
-      "locked_to_name": "fyrigruig",
-      "used_at": 1781050243,
-      "used_ip": "200.88.171.241",
-      "expired_marked": true,
-      "expired_at": 1781309669
     },
     "TUS-27EP-YJLS-66E1": {
       "nombre": "KEYS PERMA",
