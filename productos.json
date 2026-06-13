@@ -79,7 +79,7 @@
       "used_ip": "190.5.32.188",
       "expired_marked": false
     },
-    "TUS-58VN-YF62-XRBP": {
+    "TUS-58VN-YF62-XRBP (EXPIRADA)": {
       "nombre": "DJ LAMPA",
       "duracion": 5,
       "created_at": 1780886957,
@@ -90,7 +90,8 @@
       "locked_to_name": "leiderdj93",
       "used_at": 1780887082,
       "used_ip": "92.118.182.50",
-      "expired_marked": false
+      "expired_marked": true,
+      "expired_at": 1781318969
     },
     "TUS-LEEO-5CGC-FST9": {
       "nombre": "HELP",
